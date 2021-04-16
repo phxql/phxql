@@ -2,7 +2,7 @@ Welcome to my GitHub page! My name is Moritz Kammerer.
 
 I do backend development at [QAware](https://github.com/qaware) in Munich, Germany for a living. I code mostly on the JVM with Java and Kotlin.
 
-The (in my mind) most interesting repos are:
+The (in my mind) most interesting repos on this profile are:
 
 ## Applications
 
