@@ -1,6 +1,6 @@
 My name is Moritz Kammerer, and this is my GitHub page.
 
-I do backend development at [qaware](https://github.com/qaware) for a living. I code mostly on the JVM with Java and Kotlin.
+I do backend development at [QAware](https://github.com/qaware) in Munich, Germany for a living. I code mostly on the JVM with Java and Kotlin.
 
 # Repositories
 
