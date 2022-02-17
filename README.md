@@ -1,6 +1,6 @@
 Welcome to my GitHub page! My name is Moritz Halbritter (born Kammerer).
 
-I do backend development in Munich, Germany for a living. I code mostly on the JVM with Java and Kotlin.
+I code mostly on the JVM with Java and Kotlin. This is my private account and in no way affiliated with my employer. If you're looking for my professional account, [see here](https://github.com/mhalbritter/).
 
 The (in my mind) most interesting repos on this profile are:
 
