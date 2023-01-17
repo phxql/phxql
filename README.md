@@ -15,7 +15,6 @@ The (in my mind) most interesting repos on this profile are:
 
 * [argon2-jvm](https://github.com/phxql/argon2-jvm) - Argon2 password hashing algorithm for the JVM using JNA to call a C library
 * [argon2-playground](https://github.com/phxql/argon2-playground) - Small showcase to demonstrate Argon2 password hashing without the need of a C library
-* [wiremock-junit5](https://github.com/phxql/wiremock-junit5) - Remember the WireMock JUnit rule? This library is exactly this, only for JUnit 5
 * [snowflake-id](https://github.com/phxql/snowflake-id) - Generates 64 bit ids which are roughly sortable across multiple systems without a central instance.
 
 ## Tools
